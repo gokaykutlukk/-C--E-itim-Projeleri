@@ -1,0 +1,7 @@
+C:\Users\kutlu\source\repos\02_mainCstringint\08_Metohds\bin\Debug\08_Metohds.exe.config
+C:\Users\kutlu\source\repos\02_mainCstringint\08_Metohds\bin\Debug\08_Metohds.exe
+C:\Users\kutlu\source\repos\02_mainCstringint\08_Metohds\bin\Debug\08_Metohds.pdb
+C:\Users\kutlu\source\repos\02_mainCstringint\08_Metohds\obj\Debug\08_Metohds.csproj.AssemblyReference.cache
+C:\Users\kutlu\source\repos\02_mainCstringint\08_Metohds\obj\Debug\08_Metohds.csproj.CoreCompileInputs.cache
+C:\Users\kutlu\source\repos\02_mainCstringint\08_Metohds\obj\Debug\08_Metohds.exe
+C:\Users\kutlu\source\repos\02_mainCstringint\08_Metohds\obj\Debug\08_Metohds.pdb

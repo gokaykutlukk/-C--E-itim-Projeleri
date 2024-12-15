@@ -1,0 +1,7 @@
+C:\Users\kutlu\source\repos\02_mainCstringint\03_MİM\bin\Debug\03_MİM.exe.config
+C:\Users\kutlu\source\repos\02_mainCstringint\03_MİM\bin\Debug\03_MİM.exe
+C:\Users\kutlu\source\repos\02_mainCstringint\03_MİM\bin\Debug\03_MİM.pdb
+C:\Users\kutlu\source\repos\02_mainCstringint\03_MİM\obj\Debug\03_MİM.csproj.AssemblyReference.cache
+C:\Users\kutlu\source\repos\02_mainCstringint\03_MİM\obj\Debug\03_MİM.csproj.CoreCompileInputs.cache
+C:\Users\kutlu\source\repos\02_mainCstringint\03_MİM\obj\Debug\03_MİM.exe
+C:\Users\kutlu\source\repos\02_mainCstringint\03_MİM\obj\Debug\03_MİM.pdb

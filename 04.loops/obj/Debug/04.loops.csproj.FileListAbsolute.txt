@@ -1,0 +1,7 @@
+C:\Users\kutlu\source\repos\02_mainCstringint\04.loops\bin\Debug\04.loops.exe.config
+C:\Users\kutlu\source\repos\02_mainCstringint\04.loops\bin\Debug\04.loops.exe
+C:\Users\kutlu\source\repos\02_mainCstringint\04.loops\bin\Debug\04.loops.pdb
+C:\Users\kutlu\source\repos\02_mainCstringint\04.loops\obj\Debug\04.loops.csproj.AssemblyReference.cache
+C:\Users\kutlu\source\repos\02_mainCstringint\04.loops\obj\Debug\04.loops.csproj.CoreCompileInputs.cache
+C:\Users\kutlu\source\repos\02_mainCstringint\04.loops\obj\Debug\04.loops.exe
+C:\Users\kutlu\source\repos\02_mainCstringint\04.loops\obj\Debug\04.loops.pdb

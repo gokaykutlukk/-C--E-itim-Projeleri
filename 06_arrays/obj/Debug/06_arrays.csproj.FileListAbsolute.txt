@@ -1,0 +1,7 @@
+C:\Users\kutlu\source\repos\02_mainCstringint\06_arrays\bin\Debug\06_arrays.exe.config
+C:\Users\kutlu\source\repos\02_mainCstringint\06_arrays\bin\Debug\06_arrays.exe
+C:\Users\kutlu\source\repos\02_mainCstringint\06_arrays\bin\Debug\06_arrays.pdb
+C:\Users\kutlu\source\repos\02_mainCstringint\06_arrays\obj\Debug\06_arrays.csproj.AssemblyReference.cache
+C:\Users\kutlu\source\repos\02_mainCstringint\06_arrays\obj\Debug\06_arrays.csproj.CoreCompileInputs.cache
+C:\Users\kutlu\source\repos\02_mainCstringint\06_arrays\obj\Debug\06_arrays.exe
+C:\Users\kutlu\source\repos\02_mainCstringint\06_arrays\obj\Debug\06_arrays.pdb

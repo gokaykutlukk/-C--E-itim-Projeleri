@@ -1,0 +1,7 @@
+C:\Users\kutlu\source\repos\02_mainCstringint\02_mainCstringint\bin\Debug\02_mainCstringint.exe.config
+C:\Users\kutlu\source\repos\02_mainCstringint\02_mainCstringint\bin\Debug\02_mainCstringint.exe
+C:\Users\kutlu\source\repos\02_mainCstringint\02_mainCstringint\bin\Debug\02_mainCstringint.pdb
+C:\Users\kutlu\source\repos\02_mainCstringint\02_mainCstringint\obj\Debug\02_mainCstringint.csproj.AssemblyReference.cache
+C:\Users\kutlu\source\repos\02_mainCstringint\02_mainCstringint\obj\Debug\02_mainCstringint.csproj.CoreCompileInputs.cache
+C:\Users\kutlu\source\repos\02_mainCstringint\02_mainCstringint\obj\Debug\02_mainCstringint.exe
+C:\Users\kutlu\source\repos\02_mainCstringint\02_mainCstringint\obj\Debug\02_mainCstringint.pdb

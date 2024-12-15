@@ -1,0 +1,7 @@
+C:\Users\kutlu\source\repos\02_mainCstringint\05_Loop_WithStars\bin\Debug\05_Loop_WithStars.exe.config
+C:\Users\kutlu\source\repos\02_mainCstringint\05_Loop_WithStars\bin\Debug\05_Loop_WithStars.exe
+C:\Users\kutlu\source\repos\02_mainCstringint\05_Loop_WithStars\bin\Debug\05_Loop_WithStars.pdb
+C:\Users\kutlu\source\repos\02_mainCstringint\05_Loop_WithStars\obj\Debug\05_Loop_WithStars.csproj.AssemblyReference.cache
+C:\Users\kutlu\source\repos\02_mainCstringint\05_Loop_WithStars\obj\Debug\05_Loop_WithStars.csproj.CoreCompileInputs.cache
+C:\Users\kutlu\source\repos\02_mainCstringint\05_Loop_WithStars\obj\Debug\05_Loop_WithStars.exe
+C:\Users\kutlu\source\repos\02_mainCstringint\05_Loop_WithStars\obj\Debug\05_Loop_WithStars.pdb
